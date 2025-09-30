@@ -4,7 +4,7 @@ Contact Person:
 Email: ajhordy38@gmail.com
 
 Spesifikasi ponsel:
--. RAM 2 GB
+-. RAM 2 GB  
 -. Android 14
 -. Memori kosong tersedia 130 MB
 
